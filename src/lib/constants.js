@@ -116,3 +116,5 @@ export const genId = () =>
 
 export const STORAGE_KEY = 'rec_positions_v3'
 export const API_KEY_STORAGE = 'rec_openai_key'
+export const GIST_TOKEN_STORAGE = 'rec_gist_token'
+export const GIST_ID_STORAGE    = 'rec_gist_id'
